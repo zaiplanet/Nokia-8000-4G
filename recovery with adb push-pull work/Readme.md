@@ -1,3 +1,5 @@
+## Recovery file from version 20.00.17.01
+
 * USB Debug must enabled -> press `*#*#33284#*#*` on dial up on phone
 * Use firehose client version 3.52 from https://github.com/bkerler/edl
 * I'm run it on Ubuntu
