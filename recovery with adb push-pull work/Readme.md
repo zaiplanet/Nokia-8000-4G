@@ -20,6 +20,7 @@
     sudo python setup.py install
    ```
 * Connect phone to computer and run `adb devices` from cmd for check connection work
+* Run `adb reboot edl` to into download mode
 * On ubuntu open cmd and run: `edl r recovery recovery.img` from folder edl for drump a backup stock recovery on computer
 * Run: `edl w recovery path-to-recovery-patched.img` -> to write patched image to recovery partition on phone
 * Run: `edl reset` to reset phone
