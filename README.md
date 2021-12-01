@@ -1,4 +1,4 @@
-# Nokia-8000-4G
+# Nokia-8000-4G version 20.
 
 Modifications on my nokia 8000 4G run KaiOS
 
